@@ -1,5 +1,5 @@
-set wowdir="C:\Games\Battle.net\World of Warcraft"
-set gitremote="https://Arwic@github.com/Arwic/WowBackup.git"
+set wowdir="C:\Program Files (x86)\World of Warcraft"
+set gitremote="https://Arwic@github.com/Arwic/WowBackupScript.git"
 
 cd %wowdir%\WTF
 git init
