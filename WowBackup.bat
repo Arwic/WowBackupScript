@@ -6,5 +6,5 @@ git init
 git remote add origin %gitremote%
 git remote set-url origin %gitremote%
 git stage . -A
-git commit -m "Automatic Backup"
+git commit -m "Automatic backup created by https://github.com/Arwic/WowBackupScript"
 git push origin master
