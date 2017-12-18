@@ -13,5 +13,5 @@ WowBackup utilises git to back up and keep a version history of your World of Wa
 1. Select the time at which you would like backups to be run (I use `10:00:00 PM`)
 1. Ensure "Recur every" is set to `1` and click next
 1. Select "Start a program" and click next
-1. Click "Browse...", locate `Wowbackup.vbs`, and click next
+1. Click "Browse...", locate `WowBackup.vbs`, and click next
 1. Click finish
